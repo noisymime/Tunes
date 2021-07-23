@@ -106,5 +106,5 @@
       "provider": "pani-dotcom",
       "type": "Stock EUDM NA 1.6",
       "description": "Tune for use with the Speeduino PNP units on 1994-97 1.6 NA6 EUDM MX5",
-      "filename": "EUDM PNP base tune.msq"
+      "filename": "EUDM 1.6 PNP base tune.msq"
     },
